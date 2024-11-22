@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'TEACH 4',
-  tagline: 'Crafting documentation with Docusaurus, GitHub Pages, and CI/CD',
+  tagline: 'My New Web',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -17,7 +17,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'ivzhukov', // Usually your GitHub org/user name.
+  organizationName: 'Hamideh', // Usually your GitHub org/user name.
   projectName: 'docu-cicd-teach4', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -70,7 +70,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Home',
+      title: 'Work',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
